@@ -1,0 +1,17 @@
+! name: GumoReseachGoggle
+! description: Personalised research goggle boost research articles 
+! public: true
+! author: Gumo
+
+$boost=4,site=worldcat.org
+$boost=4,site=loc.gov
+$boost=4,site=
+$boost=4,site=researchgate.net
+$boost=4,site=academia.edu
+$boost=4,site=jstor.org
+$boost=4,site=citeseerx.ist.psu.edu
+$boost=4,site=arxiv.org
+$boost=4,site=sciencedirect.com
+$boost=4,site=science.gov
+$boost=4,site=doaj.org
+$boost=4,site=pubmed.ncbi.nlm.nih.gov
