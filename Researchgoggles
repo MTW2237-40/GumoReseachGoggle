@@ -16,13 +16,14 @@ $boost,site=cnn.com
 $boost,site=medicalnewstoday.com
 $boost,site=npr.org
 $boost,site=bbc.com
+$boost,site=twitter.com
 $boost,site=history.com
 
 $boost=4,site=childrenshealthdefense.org
 $boost=4,site=covid19criticalcare.com
 $boost=4,site=americasfrontlinedoctors.org
 $boost=4,site=worldcat.org
-*.gov$boost=4
+*.gov$boost=1
 *.edu$boost=3
 $boost=4,site=independent.org
 $boost=4,site=corbettreport.substack.com
