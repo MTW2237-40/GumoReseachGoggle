@@ -2,6 +2,7 @@
 ! description: Personalised research goggle boost research articles 
 ! public: true
 ! author: Gumo
+! avatar: #3b1d4d
 
 $discard
 $boost,site=khanacademy.org
@@ -20,10 +21,9 @@ $boost,site=history.com
 $boost=4,site=childrenshealthdefense.org
 $boost=4,site=covid19criticalcare.com
 $boost=4,site=americasfrontlinedoctors.org
-$boost=4,site=
 $boost=4,site=worldcat.org
-$boost=4,site=*.gov
-$boost=3,site=*.edu
+*.gov$boost=4
+*.edu$boost=3
 $boost=4,site=independent.org
 $boost=4,site=corbettreport.substack.com
 $boost=4,site=unlimitedhangout.com
