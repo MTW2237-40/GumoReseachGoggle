@@ -4,20 +4,19 @@
 ! author: Gumo
 ! avatar: #3b1d4d
 
-$discard
-$boost,site=khanacademy.org
-$boost,site=britannica.com
-$boost,site=facebook.com
-$boost,site=www.pbs.org
-$boost,site=twitter.com
-$boost,site=amazon.com
-$boost,site=theguardian.com
-$boost,site=cnn.com
-$boost,site=medicalnewstoday.com
-$boost,site=npr.org
-$boost,site=bbc.com
-$boost,site=twitter.com
-$boost,site=history.com
+$discard,site=khanacademy.org
+$discard,site=britannica.com
+$discard,site=facebook.com
+$discard,site=www.pbs.org
+$discard,site=twitter.com
+$discard,site=amazon.com
+$discard,site=theguardian.com
+$discard,site=cnn.com
+$discard,site=medicalnewstoday.com
+$discard,site=npr.org
+$discard,site=bbc.com
+$discard,site=twitter.com
+$discard,site=history.com
 
 $boost=4,site=childrenshealthdefense.org
 $boost=4,site=covid19criticalcare.com
