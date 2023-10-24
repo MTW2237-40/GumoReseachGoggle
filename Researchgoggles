@@ -3,8 +3,27 @@
 ! public: true
 ! author: Gumo
 
+$discard
+$boost,site=khanacademy.org
+$boost,site=britannica.com
+$boost,site=facebook.com
+$boost,site=www.pbs.org
+$boost,site=twitter.com
+$boost,site=amazon.com
+$boost,site=theguardian.com
+$boost,site=cnn.com
+$boost,site=medicalnewstoday.com
+$boost,site=npr.org
+$boost,site=bbc.com
+$boost,site=history.com
+
+$boost=4,site=childrenshealthdefense.org
+$boost=4,site=covid19criticalcare.com
+$boost=4,site=americasfrontlinedoctors.org
+$boost=4,site=
 $boost=4,site=worldcat.org
-$boost=4,site=loc.gov
+$boost=4,site=*.gov
+$boost=3,site=*.edu
 $boost=4,site=independent.org
 $boost=4,site=corbettreport.substack.com
 $boost=4,site=unlimitedhangout.com
@@ -21,6 +40,7 @@ $boost=4,site=jstor.org
 $boost=4,site=citeseerx.ist.psu.edu
 $boost=4,site=arxiv.org
 $boost=4,site=sciencedirect.com
-$boost=4,site=science.gov
+$boost=4,site=semanticscholar.org
 $boost=4,site=doaj.org
-$boost=4,site=pubmed.ncbi.nlm.nih.gov
+$boost=4,site=evincer.org
+$boost=4,site=encyclopedia.1914-1918-online.net
